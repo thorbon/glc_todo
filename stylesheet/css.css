@@ -1,0 +1,10 @@
+.form-login {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  max-width: 330px;
+}
+
+.text-center {
+  text-align: center !important;
+}
